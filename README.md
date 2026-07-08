@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vidwadeseram-uwu-code-badge.png)](https://mseep.ai/app/vidwadeseram-uwu-code)
+
 
 
 <img width="227" height="191" alt="Screenshot 2026-04-05 at 8 28 40 AM" src="https://github.com/user-attachments/assets/2facf58d-f90d-4936-80e1-5e6ee3fb329b" />
